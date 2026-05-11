@@ -1,0 +1,5 @@
+Analysis,Main_result,Percent,Statistic,Interpretation
+Coordinate-level Col-0 m6A overlap: all Table 2 sites,31/6504 sites overlap Col-0 m6A peaks,0.48%,Observed/expected = 0.87; binomial p = 0.81,No global enrichment across all cleavage sites
+Coordinate-level Col-0 m6A overlap: mRNA sites only,31/2243 mRNA sites overlap Col-0 m6A peaks,1.38%,Observed/expected = 2.52; binomial p = 5.18e-06,Significant enrichment in mRNA cleavage sites
+Gene-level flower CS m6A overlap: nucleoplasmic mRNA cleavage genes,477/776 genes have flower CS m6A peaks,61.47%,Fisher comparison vs cytoplasm p = 7.43e-07,Lower flower m6A frequency than cytoplasmic group
+Gene-level flower CS m6A overlap: cytoplasmic mRNA cleavage genes,70/80 genes have flower CS m6A peaks,87.50%,Fisher comparison vs nucleoplasm p = 7.43e-07,Higher flower m6A frequency than nucleoplasmic group

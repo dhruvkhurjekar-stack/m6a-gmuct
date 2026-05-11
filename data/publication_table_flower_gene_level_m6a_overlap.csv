@@ -1,0 +1,3 @@
+Cleavage_gene_group,Flower_m6A_plus,Flower_m6A_minus,Total_genes,Percent_flower_m6A_plus,Fisher_exact_p_value
+Nucleoplasmic mRNA cleavage genes,477,299,776,61.47,7.43e-07
+Cytoplasmic mRNA cleavage genes,70,10,80,87.5,7.43e-07
